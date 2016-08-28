@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Home/PayTicket.cshtml" hash="ffffffffb4e96f50" filehash="44239a5a2090" flags="110000" assembly="App_Web_payticket.cshtml.a8d08dba" type="ASP._Page_Views_Home_PayTicket_cshtml">
+    <filedeps>
+        <filedep name="/Views/Home/PayTicket.cshtml" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Home/SelectDay.cshtml" hash="ffffffffb4e96f50" filehash="39f20f360da6" flags="110000" assembly="App_Web_selectday.cshtml.a8d08dba" type="ASP._Page_Views_Home_SelectDay_cshtml">
+    <filedeps>
+        <filedep name="/Views/Home/SelectDay.cshtml" />
+    </filedeps>
+</preserve>

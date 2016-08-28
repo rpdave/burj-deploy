@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Home/CustomError.cshtml" hash="ffffffffb4e96f50" filehash="ffffe24cbc83fe1b" flags="110000" assembly="App_Web_customerror.cshtml.a8d08dba" type="ASP._Page_Views_Home_CustomError_cshtml">
+    <filedeps>
+        <filedep name="/Views/Home/CustomError.cshtml" />
+    </filedeps>
+</preserve>
