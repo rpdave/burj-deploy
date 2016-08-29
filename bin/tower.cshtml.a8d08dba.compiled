@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="2" virtualPath="/Views/Home/Tower.cshtml" hash="ffffffffb4e96f50" filehash="c6a935b8a92" flags="110000" assembly="App_Web_tower.cshtml.a8d08dba" type="ASP._Page_Views_Home_Tower_cshtml">
-    <filedeps>
-        <filedep name="/Views/Home/Tower.cshtml" />
-    </filedeps>
-</preserve>

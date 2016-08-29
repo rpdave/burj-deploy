@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="2" virtualPath="/Views/Home/SelectAttraction.cshtml" hash="ffffffffb4e96f50" filehash="12147463a2f0" flags="110000" assembly="App_Web_selectattraction.cshtml.a8d08dba" type="ASP._Page_Views_Home_SelectAttraction_cshtml">
-    <filedeps>
-        <filedep name="/Views/Home/SelectAttraction.cshtml" />
-    </filedeps>
-</preserve>

@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<preserve resultType="2" virtualPath="/Views/Home/PersonalInformation.cshtml" hash="ffffffffb4e96f50" filehash="1cecaef69162" flags="110000" assembly="App_Web_personalinformation.cshtml.a8d08dba" type="ASP._Page_Views_Home_PersonalInformation_cshtml">
-    <filedeps>
-        <filedep name="/Views/Home/PersonalInformation.cshtml" />
-    </filedeps>
-</preserve>
